@@ -5,7 +5,7 @@
 ---
 
 ### 💻 About Me  
-- 🔭 I’m currently working on **college and mini projects**  
+- 🔭 I’m currently a student working on **mini projects**  
 - 🌱 I know **C**, **Python**, **HTML**, and **CSS** — currently learning **JavaScript**, **Java**, and **DSA**  
 - 🤝 I’m looking for **internship opportunities** to gain experience in **Full Stack & Web Development**  
 - ⚡ Fun fact: I’m a **quick learner** who loves experimenting with new tech  
